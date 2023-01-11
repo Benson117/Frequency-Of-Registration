@@ -1,0 +1,7 @@
+C:\Users\benso\Desktop\Frequency Of Registration\Frequency Of Registration\bin\Debug\Frequency Of Registration.exe.config
+C:\Users\benso\Desktop\Frequency Of Registration\Frequency Of Registration\bin\Debug\Frequency Of Registration.exe
+C:\Users\benso\Desktop\Frequency Of Registration\Frequency Of Registration\bin\Debug\Frequency Of Registration.pdb
+C:\Users\benso\Desktop\Frequency Of Registration\Frequency Of Registration\obj\Debug\Frequency Of Registration.csproj.AssemblyReference.cache
+C:\Users\benso\Desktop\Frequency Of Registration\Frequency Of Registration\obj\Debug\Frequency Of Registration.csproj.CoreCompileInputs.cache
+C:\Users\benso\Desktop\Frequency Of Registration\Frequency Of Registration\obj\Debug\Frequency Of Registration.exe
+C:\Users\benso\Desktop\Frequency Of Registration\Frequency Of Registration\obj\Debug\Frequency Of Registration.pdb
